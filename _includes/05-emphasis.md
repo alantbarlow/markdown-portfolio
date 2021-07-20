@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have previous experiance with the __Javascript__, __Swift__, __Dart__, __HTML__, and __CSS__ languages. I also have experiance with the __React__, __Flutter__, __Bootstrap__, and __Express.JS__ frameworks/libraries.
